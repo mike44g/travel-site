@@ -1,9 +1,9 @@
 .large-hero {
-  border-bottom: 10px solid $mainBlue;
   position: relative;
 
   &__image {
     display: block;
+    border-bottom: 10px solid $mainBlue;
   }
 
   &__text-content {
